@@ -10,8 +10,8 @@
 
 
 ### ***Description***
-#### In this project I add a simple sign up, sign in validation "using post" and get user information "using get" and using full CRUD operation by creating a book with a specific user, getting the book info, updating the book info, and deleting a book.
-#### for now all the work is in the backend only and for a future update I'm thinking of using ejs or react for thr front end.
+#### In this project I add a simple sign up, sign in validation "using post" and get user information "using get" and using full CRUD operation by creating a book by a specific user, getting the book info, updating the book info, and deleting a book, The user can create books, and get all books that he created where he will be able to update and delete the books and he could also see all the books that have been created by other users.
+#### for now all the work is in the backend only but for a future update I'm thinking of using ejs or react for thr frontend.
 ***
 
 ### ***Technologies Used***
