@@ -1,5 +1,5 @@
 
-# Project 2
+# Project 3
 
 ## Date: 27/6/2026
 
@@ -10,7 +10,8 @@
 
 
 ### ***Description***
-#### .....
+#### In this project I add a simple sign up, sign in validation "using post" and get user information "using get" and using full CRUD operation by creating a book with a specific user, getting the book info, updating the book info, and deleting a book.
+#### for now all the work is in the backend only and for a future update I'm thinking of using ejs or react for thr front end.
 ***
 
 ### ***Technologies Used***
@@ -47,7 +48,5 @@ Delete book
 
 ### ***Future Updates***
 
-- [ ]
-- [ ]
-- [ ]
+- [ ] Front end development
 ***
