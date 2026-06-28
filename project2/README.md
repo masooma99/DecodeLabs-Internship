@@ -20,10 +20,14 @@ since this project is only for backend I mostly used res.send() for sending succ
 ***
 
 ### ***Getting Started
+Sign up
+![Image](./images/sign_up.png)
 Sign in
-![Image](./images/.jpg)
+![Image](./images/signin.png)
+Sign out
+![Image](./images/sign_out.png)
 Get user by id
-![Image](./images/.jpg)
+![Image](./images/user_info.png)
 
 
 ### ***Future Updates***
