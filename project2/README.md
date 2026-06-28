@@ -11,7 +11,7 @@
 
 ### ***Description***
 #### this project represent a simple API endpoints get and post only where users can sign up "using post" by creating a user if the user enter a valid information and adding the information to the database which I used mongodb as my database and sign in which will "get" the data from the data base and compare it to the data that the user entered, data should also be securely stored, and as a developer, never trust the users so always make sure that the data entered by the user is acuret.
-since this project is only for backend I mostly used res.send() for sending success or error message or for sending a data from the database as json.
+#### since this project is only for backend I mostly used res.send() for sending success or error message or for sending a data from the database as json.
 ***
 
 ### ***Technologies Used***
