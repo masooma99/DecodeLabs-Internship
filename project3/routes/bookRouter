@@ -1,0 +1,13 @@
+const express = require("express")
+const router = express.Router()
+
+const bookController = require("../controllers/bookController")
+//these functions and endpoints has been tested using insomnia
+router.get("/", bookController.getAllBooks)
+router.post("/:id", bookController.createBook)//id of the user who create or add the book
+router.get("/:id", bookController.getBookById)
+router.get("/user/:userid", bookController.getAllBooksByUserId)
+router.put('/:id',bookController.updateBook)
+router.delete('/:id', bookController.deleteBookById)
+
+module.exports = router
